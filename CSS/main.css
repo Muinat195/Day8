@@ -1,0 +1,20 @@
+div{
+    border: dashed 3px rgb(148, 96, 104);
+    padding: 20px;
+    margin: 20px;
+}
+img{
+    height: auto
+    max-width: 100%;
+}
+nav{
+    background: linear-gradient(75deg, #cc2b5e, #753a88);
+    width: 100%;
+    height:75px; 
+    padding: 20px;
+}
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    color: white;
+}
